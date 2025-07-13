@@ -1,16 +1,87 @@
-# business_card_app
 
-A new Flutter project.
+---
 
-## Getting Started
+# 💼 Flutter Business Card – Salah Hassan
 
-This project is a starting point for a Flutter application.
+A simple and beautiful **Flutter** app that displays a digital business card with profile picture, name, job title, hobbies, and contact details.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🌟 Features:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🖼️ Profile picture using `CircleAvatar`
+- 🧑‍💼 Name and Job Title with custom fonts
+- 🧑‍💻 Hobby section (coding & gaming)
+- 📞 Contact info (phone & email)
+- 🎨 Clean layout and modern UI
+
+---
+
+## 🧠 Concepts Used:
+
+- **Stateless Widget**
+- **Column & Row Layouts**
+- **CircleAvatar**
+- **Container Decoration**
+- **Custom Fonts**
+- **SafeArea & Center**
+
+---
+
+## 📱 Preview
+
+> You can add screenshots of the app here (optional)
+
+---
+
+## 🔧 How to Run:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SalahHassan202/flutter_business_card.git
+````
+
+2. Get packages:
+
+   ```bash
+   flutter pub get
+   ```
+3. Run on emulator or real device:
+
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 📁 Folder Structure
+
+```
+lib/
+├── main.dart
+assets/
+├── person.PNG
+pubspec.yaml (includes fonts & assets)
+```
+
+---
+
+## 🛠️ Tools & Language
+
+* **Flutter (Dart)**
+* **VS Code / Android Studio**
+
+---
+
+## ✍️ Created By:
+
+**Salah Hassan** – Flutter Developer 🚀
+
+---
+
+## 🤝 Contributions
+
+Feel free to fork and improve this project!
+Feedback and pull requests are welcome 
+
+---
